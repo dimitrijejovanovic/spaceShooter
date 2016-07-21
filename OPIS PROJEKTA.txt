@@ -1,0 +1,5 @@
+Space Shooter je igra koja je tutorijal na zvanicnoj stranici Unity3D.
+
+Ovo je ujedno i jedan od mojih prvih radova u Unity 3D okruzenju.
+
+Moje intervencije se zasnivaju da pravljenju postepeno otezavajucih nivoa, evidenciji municije i dodavanju novih asteroida, dok su svi modeli, skripte i ostali prateci materijal preuzeti sa zvanicne stranice Unity3D razvojnog okruzenja. 
